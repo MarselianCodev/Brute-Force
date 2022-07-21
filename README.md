@@ -10,8 +10,6 @@
 ###  Facebook her iki sorunu da düzeltti ve toplamda 5.000 $ ödül verdi. 
 
 
-### Download&install
-
 ### apt-get install tor
 
 ### git clone https://github.com/Ha3MrX/InstaBrute
@@ -19,6 +17,8 @@
 ### cd InstaBrute
 
 ### chmod +x insta.sh
+
+### service tor start
 
 ### ./insta.sh
 
@@ -29,7 +29,3 @@
 ### YouTube Channel
 
 ### https://www.youtube.com/channel/UCTLYdslUhjMu84kJ9g6Y6sw
-
-### Viddeo Tutorial
-
-### https://www.youtube.com/watch?v=a-moMHuZX_Q&t=11s
