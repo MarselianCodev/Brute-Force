@@ -1,5 +1,4 @@
-#  InstaBrute 
-#  InstaBrute Brute-force Instagram Hesabı Hacking'in İki Yolu 
+ #  pedrobrute Brute-force Instagram Hesabı Hacking'in İki Yolu 
 
 ###  InstaBrute nedir 
 
