@@ -1,6 +1,6 @@
- #  pedrobrute Brute-force Instagram Hesabı Hacking'in İki Yolu 
+ #  PedroBrute Brute-force Instagram Hesabı Hacking'in İki Yolu 
 
-###  InstaBrute nedir 
+###  PedroBrute nedir 
 
 ###  Instagram, bir saldırganın kaba kuvvet uygulamasına izin veren iki farklı güvenlik açığı içeriyordu 
 ###  kullanıcı hesaplarının şifreleri. Kullanıcı numaralandırma ile birlikte, zayıf bir parola politikası 
