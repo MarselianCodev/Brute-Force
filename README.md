@@ -11,7 +11,7 @@
 
 ### apt-get install tor
 
-### git clone https://github.com/Ha3MrX/InstaBrute
+### git clone [https://github.com/MarselianCodev/Brute-Force]
 
 ### cd InstaBrute
 
@@ -28,3 +28,4 @@
 ### YouTube Channel
 
 ### https://www.youtube.com/channel/UCTLYdslUhjMu84kJ9g6Y6sw
+ 
