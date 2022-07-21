@@ -15,11 +15,11 @@
 
 ### cd InstaBrute
 
-### chmod +x insta.sh
+### chmod +x pedro.sh
 
 ### service tor start
 
-### ./insta.sh
+### ./pedro.sh
 
 ### screenshot
 
