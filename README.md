@@ -23,7 +23,7 @@
 
 ### screenshot
 
-![capture](https://user-images.githubusercontent.com/33704360/39670422-5738279c-510d-11e8-9f6d-a8e24114a510.PNG)
+![capture](muhammed.png)
 
 ### YouTube Channel
 
