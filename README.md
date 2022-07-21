@@ -23,7 +23,7 @@
 
 ### screenshot
 
-![capture](muhammed.png)
+![VİYKL](muhammed.PNG)
 
 ### YouTube Channel
 
